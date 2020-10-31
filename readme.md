@@ -64,7 +64,7 @@ https://www.python.org/downloads/
 ```
 2. Download BasicCalc V.X.X.X
 ```sh
----
+https://github.com/Stetussa/Basic-Calc-Public/releases/tag/v.2.0.0
 ```
 
 
